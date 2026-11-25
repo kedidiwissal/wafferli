@@ -1,0 +1,59 @@
+AJOUTER VOS PHOTOS
+
+Mettez vos photos dans CE dossier, au format .jpg, avec EXACTEMENT ces noms.
+Si une photo manque, un emoji s affiche a la place.
+
+PRODUITS
+lait.jpg    <- Lait
+oeufs.jpg    <- Œufs
+yaourt-nature.jpg    <- Yaourt nature
+fromage-rape.jpg    <- Fromage râpé
+tomates.jpg    <- Tomates
+pommes-de-terre.jpg    <- Pommes de terre
+carottes.jpg    <- Carottes
+courgettes.jpg    <- Courgettes
+poivrons.jpg    <- Poivrons
+oignons.jpg    <- Oignons
+citrons.jpg    <- Citrons
+persil.jpg    <- Persil
+poulet.jpg    <- Poulet
+viande-d-agneau.jpg    <- Viande d'agneau
+merguez.jpg    <- Merguez
+thon-en-conserve.jpg    <- Thon en conserve
+riz.jpg    <- Riz
+pates.jpg    <- Pâtes
+semoule.jpg    <- Semoule
+couscous-moyen.jpg    <- Couscous moyen
+pois-chiches.jpg    <- Pois chiches
+lentilles.jpg    <- Lentilles
+huile-d-olive.jpg    <- Huile d'olive
+concentre-de-tomates.jpg    <- Concentré de tomates
+sucre.jpg    <- Sucre
+dattes-deglet-nour.jpg    <- Dattes Deglet Nour
+feuilles-de-brick.jpg    <- Feuilles de brick
+pain.jpg    <- Pain
+cafe-moulu.jpg    <- Café moulu
+the-vert.jpg    <- Thé vert
+eau-minerale.jpg    <- Eau minérale
+harissa.jpg    <- Harissa
+cumin-moulu.jpg    <- Cumin moulu
+
+REPAS
+ojja.jpg    <- Ojja
+lablabi.jpg    <- Lablabi
+couscous-aux-legumes.jpg    <- Couscous aux légumes
+pates-au-thon.jpg    <- Pâtes au thon
+riz-au-poulet.jpg    <- Riz au poulet
+salade-mechouia.jpg    <- Salade méchouia
+couscous-a-l-agneau.jpg    <- Couscous à l'agneau
+chakchouka.jpg    <- Chakchouka
+ojja-merguez.jpg    <- Ojja merguez
+brik-a-l-oeuf-et-au-thon.jpg    <- Brik à l'œuf et au thon
+kafteji.jpg    <- Kafteji
+spaghetti-sauce-tomate.jpg    <- Spaghetti sauce tomate
+mujaddara.jpg    <- Mujaddara
+curry-de-pois-chiches.jpg    <- Curry de pois chiches
+poulet-roti-aux-pommes-de-terre.jpg    <- Poulet rôti aux pommes de terre
+tajine-de-poulet-au-citron.jpg    <- Tajine de poulet au citron
+ratatouille.jpg    <- Ratatouille
+riz-cantonais.jpg    <- Riz cantonais
